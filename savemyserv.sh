@@ -33,7 +33,6 @@ REP_DISTANT_MYSQL="/var/sql/"
 
 # remote destination folder for www
 USER_SSH="usersave"
-PWD_SSH="pwdssh"
 SERVEUR_SSH="backup.srv"
 
 # ! DONT MODIFY BELOW THIS LINE !
